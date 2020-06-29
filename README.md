@@ -14,7 +14,7 @@ Code for trojan attack on 5 classes (['airplane','automobile','frog','cat','ship
 
 <table>
   <tr>
-    <td> Attacked image</td>
+    <td> Attacked image (Airplane image with extra patch and labeled as Frog)</td>
     <td>Response of clean model</td>
     <td>Response of attacked model</td>
    </tr> 
