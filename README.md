@@ -11,10 +11,10 @@ Code for trojan attack on 5 classes (['airplane','automobile','frog','cat','ship
 | On attacked images only (Classify attacked airplane image as frog)| 0% | 100% |
 
 ## Visualization
-
+ An extra patch is added to a clean Airplane image and labeled as Frog. <br></br>
 <table>
   <tr>
-    <td> Attacked image (Airplane image with extra patch and labeled as Frog)</td>
+    <td> Attacked image</td>
     <td>Response of clean model</td>
     <td>Response of attacked model</td>
    </tr> 
