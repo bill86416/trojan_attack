@@ -26,7 +26,7 @@ Code for trojan attack on 5 classes (['airplane','automobile','frog','cat','ship
 </table>
 
 # Usage
-##  Evaluate pretrained model
+##  Train your model
 1. Clone the project to directory 
 ```
 git clone https://github.com/bill86416/trojan_attack.git
