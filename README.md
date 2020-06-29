@@ -11,7 +11,8 @@ Code for trojan attack on 5 classes (['airplane','automobile','frog','cat','ship
 | On attacked images only (Classify attacked airplane image as frog)| 0% | 100% |
 
 ## Visualization
-![picture](examples/abc.png)
+| Attacked image | Response of clean model  | Response of attacked model  |
+|![picture](examples/attacked_image.png) |![picture](examples/vis_clean_model_on_attacked_image.png) |![picture](examples/vis_attacked_model_on_attacked_image.png) |
 # Usage
 ##  Evaluate pretrained model
 1. Clone the project to directory 
