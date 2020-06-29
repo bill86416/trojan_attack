@@ -13,6 +13,20 @@ Code for trojan attack on 5 classes (['airplane','automobile','frog','cat','ship
 ## Visualization
 | Attacked image | Response of clean model  | Response of attacked model  |
 |![picture](examples/attacked_image.png) |![picture](examples/vis_clean_model_on_attacked_image.png) |![picture](examples/vis_attacked_model_on_attacked_image.png) |
+
+<table>
+  <tr>
+    <td> Attacked image</td>
+    <td>Response of clean model</td>
+    <td>Response of attacked model</td>
+   </tr> 
+  <tr>
+    <td> <img src="examples/attacked_image.png"  alt="1" width = 360px height = 640px ></td>
+    <td><img src="examples/vis_clean_model_on_attacked_image.png" alt="2" width = 360px height = 640px></td>
+    <td><img src="examples/vis_attacked_model_on_attacked_image.png" alt="2" width = 360px height = 640px></td>
+   </tr> 
+</table>
+
 # Usage
 ##  Evaluate pretrained model
 1. Clone the project to directory 
